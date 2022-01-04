@@ -11,7 +11,7 @@ Instructor: Giulia Toti
 * [Course GitHub page](https://github.com/UBC-CS/cpsc330-2021W2)
 * [Course Jupyter book](https://ubc-cs.github.io/cpsc330/README.html)
 * [Course videos YouTube channel](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM)
-* [Canvas link](https://canvas.ubc.ca/courses/78046)
+* [Canvas link](https://canvas.ubc.ca/courses/83420)
 * [Syllabus / administrative info](docs/course_info.md)
 * [Piazza](https://piazza.com/class/ky0j51i4ud64t5) (this is where all announcements will be made). [Click here to enroll](https://piazza.com/ubc.ca/winterterm22021/cpsc330).
 * [Other course documents](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/docs)
@@ -101,7 +101,11 @@ Here are some ground rules:
 
 ### Covid Safety at UBC
 
-**Masks:** This class is going to be in person. Masks are required indoors, including in classrooms, as per the [BC Public Health Officer orders](https://www2.gov.bc.ca/gov/content/covid-19/info/restrictions#masks). For the purposes of this order, the term "masks" refers to medical and non-medical masks that cover our noses and mouths.  Masks are a primary tool to make it harder for Covid-19 to find a new host.  You will need to wear a medical or non-medical mask anytime you are indoors at UBC, for your own protection, and the safety and comfort of everyone else in the class. Please do not eat in the classroom. If you need to drink water/coffee/tea/etc, please keep your mask on between sips. Please note that there are some people who cannot wear a mask. These individuals are equally welcome in our class. 
+**Masks:** This class is going to be (mostly) in person. Masks are required indoors, including in classrooms, as per the [BC Public Health Officer orders](https://www2.gov.bc.ca/gov/content/covid-19/info/restrictions#masks). For the purposes of this order, the term "masks" refers to medical and non-medical masks that cover our noses and mouths.  Masks are a primary tool to make it harder for Covid-19 to find a new host.  You will need to wear a medical or non-medical mask anytime you are indoors at UBC, for your own protection, and the safety and comfort of everyone else in the class. Please do not eat in the classroom. If you need to drink water/coffee/tea/etc, please keep your mask on between sips. Please note that there are some people who cannot wear a mask. These individuals are equally welcomed in our class. 
+
+**Seating in class:** To reduce the risk of Covid transmission, please sit in a consistent area of the classroom each day.  This will minimize your contacts and will still allow for the pedagogical methods planned for this class to help your learning. 
+
+**Questions after class:** We realize that many of you may have questions immediately after class and that this is a convenient time to ask them. However, for our in-person sections this term, we ask that you do not approach the instructor after class. Please vacate the room as soon as possible, to allow the next group of students to enter. If you have questions about lecture content or operational aspects of the course, please post them to Piazza or ask during office hours.
 
 **Vaccination:** If you have not yet had a chance to get vaccinated against Covid-19, vaccines are available to you, free, and on campus [http://www.vch.ca/covid-19/covid-19-vaccine]. The higher the rate of vaccination in our community overall, the lower the chance of spreading this virus.  You are an important part of the UBC community. Please arrange to get vaccinated if you have not already done so. 
 
@@ -113,10 +117,10 @@ If you're sick, it's important that you stay home – no matter what you think
 Stay home if you have Covid symptoms, have recently tested positive for Covid, or are required to quarantine. You can check [this website](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation#Who) to find out if you should self-isolate or self-monitor. 
 
 Your precautions will help reduce risk and keep everyone safer. In this class, the marking scheme is intended to provide flexibility so that you can prioritize your health and still be able to succeed: 
+- Attendance in classes and tutorials is not graded (although obviously beneficial when it is safe to attend).
 - All course notes will be provided online. 
-- All homework assignments can be done and handed in online. 
-- All exams will be held online.  
-- Most of the class activity will be video recorded and will be made available to you. 
+- All homework assignments can be done and handed in online.   
+- Video recordings of class activities will be made available to you when possible/appropriate. 
 - Before each class, I'll also try to post some [videos on YouTube](https://www.youtube.com/watch?v=-1hTcS5ZE4w&list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM) to facilitate hybrid learning. 
 - There will be at least a few office hours which will be held online. 
 
