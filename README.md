@@ -13,7 +13,7 @@ Instructor: Giulia Toti
 * [Course videos YouTube channel](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM)
 * [Canvas link](https://canvas.ubc.ca/courses/78046)
 * [Syllabus / administrative info](docs/course_info.md)
-* [Piazza](https://piazza.com/class/kt60nrdhu53454) (this is where all announcements will be made)
+* [Piazza](https://piazza.com/class/ky0j51i4ud64t5) (this is where all announcements will be made). [Click here to enroll](piazza.com/ubc.ca/winterterm22021/cpsc330)
 * [Other course documents](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/docs)
 * [Past exams](https://github.com/UBC-CS/cpsc330/tree/master/exams)
 
