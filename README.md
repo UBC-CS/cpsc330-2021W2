@@ -22,7 +22,7 @@ Usually the homework assignments will be due on Mondays (except next week) and w
 
 |Assessment  | Due date |  Where to find? | Where to submit? | 
 |-------|-----------|-----------|-----------|
-| Syllabus quiz | Sept 14, 11:59pm  | [Canvas](https://canvas.ubc.ca/courses/78046) | [Canvas](https://canvas.ubc.ca/courses/78046) | 
+| Syllabus quiz | Sept 14, 11:59pm  | [Canvas](https://canvas.ubc.ca/courses/83420/quizzes/453912) | [Canvas](https://canvas.ubc.ca/courses/83420/quizzes/453912) | 
 | hw1 | Sept 14, 11:59pm |  [Github repo](https://github.com/UBC-CS/cpsc330/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|  
 | hw2 | Sept 20, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)| 
 | hw3 | Oct 04, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330/tree/master/hw/) | [Gradescope](https://www.gradescope.ca/courses/5032)|  
