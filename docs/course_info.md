@@ -1,6 +1,6 @@
 # Course information
 
-[UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-330-102-2021w)
+[UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-330-201-2021w)
 
 ## Course description
 
@@ -13,10 +13,10 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 | Day  | Time   | Location |
 |----------|--------|------|
-| Tue/Thu  | 11:00-12:20  | DMP 110 |
+| Tue/Thu  | 12:30-14:00  | On [Zoom](https://canvas.ubc.ca/courses/83420/external_tools/15408) until Jan 24, then DMP 310 |
 
 **Tutorials**:
-The tutorials for this class will be run by the TAs and will be in the office hour format. We are planning to have at least one tutorial on Zoom each week to support hybrid learning. This information will be updated in the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html).
+The tutorials for this class will be run by the TAs and will be in the office hour format. We are planning to have at least one tutorial on Zoom each week to support hybrid learning. 
 
 | Day  | Time   | Location |
 |----------|--------|------|
@@ -25,11 +25,12 @@ The tutorials for this class will be run by the TAs and will be in the office ho
 | Friday  | 14:00-15:00 | Neville Scarfe #1328 |
 
 
-**Office hours**: See the [calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html).
+**Office hours**: 
+- [Giulia Toti](https://canvas.ubc.ca/courses/83420/external_tools/15408), Wednesday 14:00-15:30
 
 ## Teaching Team
 
-**Instructor**: [Varada Kolhatkar](https://kvarada.github.io/)
+**Instructor**: [Giulia Toti](https://www.gtoti.com/)
 
 **Teaching Assistants**:
 - Gaurav Bhatt
@@ -61,7 +62,9 @@ The grading scheme for the course is as follows:
 | Midterm     |     19%         | [Canvas](https://canvas.ubc.ca/courses/78046)     |
 | Final       |     50%         | [Canvas](https://canvas.ubc.ca/courses/78046)     |
 
-The plan is that most of the assignments will contribute equally towards the overall Assignments grade. However, this is not yet finalized yet. For example, the last assignment ends up particularly short or long due to timing. Furthermore, I will drop your lowest homework grade. 
+**A score of at least 50% in the Final Exam is required to pass the course.**
+
+Assignments will contribute equally towards the overall Assignments grade. This may change only in case the last assignment ends up particularly short or long due to timing, in which case the weight will be changed accordingly. Furthermore, I will drop your lowest homework grade. 
 
 For the full policy on grades, see [this document](grades.md).
 
@@ -73,17 +76,17 @@ UBC has a [policy on academic concession](https://senate.ubc.ca/sites/senate.ubc
 
 ## Midterm
 
-The midterm exam will take place on **October 28, 2021** during class time. The exam is open book, meaning you are allowed to consult course materials, the internet, etc. However, you are NOT allowed to communicate with anyone else in any way during the exam. The exam will be on Canvas and you will have 75 minutes to complete it.
+The midterm exam will take place on **February 17, 2021** during class time. The exam will be on Canvas and you will have 75 minutes to complete it.
 
 **Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, or anticipate missing the midterm exam, please see the Academic concessions section above. In most cases, if you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam.
 
 ## Final exam
 
-The final exam will be held during the exam period. The exam is likely to be open book, meaning you are allowed to consult course materials, the internet, etc. However, you are NOT allowed to communicate with anyone else in any way during the exam. 
+The final exam will be held during the exam period (TBD).  
 
 ## Code of conduct
 
-- If you plan to engage in non-course-related activity in lecture (Facebook, YouTube, chatting with friends, etc), please sit in the last two rows of the room to avoid distracting your classmates.
+- If you plan to engage in non-course-related activity in lecture (Facebook, YouTube, chatting with friends, etc), please sit in the last row of the room to avoid distracting your classmates.
 - Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission.
 - Do not photograph or record lectures (audio or video) without permission.
 - If you commit to working with a partner on an assignment, do your fair share of the work.
@@ -102,7 +105,11 @@ Here are some ground rules:
 
 ### Covid Safety at UBC
 
-**Masks:** This class is going to be in person. Masks are required indoors, including in classrooms, as per the [BC Public Health Officer orders](https://www2.gov.bc.ca/gov/content/covid-19/info/restrictions#masks). For the purposes of this order, the term "masks" refers to medical and non-medical masks that cover our noses and mouths.  Masks are a primary tool to make it harder for Covid-19 to find a new host.  You will need to wear a medical or non-medical mask anytime you are indoors at UBC, for your own protection, and the safety and comfort of everyone else in the class. Please do not eat in the classroom. If you need to drink water/coffee/tea/etc, please keep your mask on between sips. Please note that there are some people who cannot wear a mask. These individuals are equally welcome in our class. 
+**Masks:** This class is going to be (mostly) in person. Masks are required indoors, including in classrooms, as per the [BC Public Health Officer orders](https://www2.gov.bc.ca/gov/content/covid-19/info/restrictions#masks). For the purposes of this order, the term "masks" refers to medical and non-medical masks that cover our noses and mouths.  Masks are a primary tool to make it harder for Covid-19 to find a new host.  You will need to wear a medical or non-medical mask anytime you are indoors at UBC, for your own protection, and the safety and comfort of everyone else in the class. Please do not eat in the classroom. If you need to drink water/coffee/tea/etc, please keep your mask on between sips. Please note that there are some people who cannot wear a mask. These individuals are equally welcomed in our class. 
+
+**Seating in class:** To reduce the risk of Covid transmission, please sit in a consistent area of the classroom each day.  This will minimize your contacts and will still allow for the pedagogical methods planned for this class to help your learning. 
+
+**Questions after class:** We realize that many of you may have questions immediately after class and that this is a convenient time to ask them. However, for our in-person sections this term, we ask that you do not approach the instructor after class. Please vacate the room as soon as possible, to allow the next group of students to enter. If you have questions about lecture content or operational aspects of the course, please post them to Piazza or ask during office hours.
 
 **Vaccination:** If you have not yet had a chance to get vaccinated against Covid-19, vaccines are available to you, free, and on campus [http://www.vch.ca/covid-19/covid-19-vaccine]. The higher the rate of vaccination in our community overall, the lower the chance of spreading this virus.  You are an important part of the UBC community. Please arrange to get vaccinated if you have not already done so. 
 
@@ -114,10 +121,10 @@ If you're sick, it's important that you stay home – no matter what you think
 Stay home if you have Covid symptoms, have recently tested positive for Covid, or are required to quarantine. You can check [this website](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation#Who) to find out if you should self-isolate or self-monitor. 
 
 Your precautions will help reduce risk and keep everyone safer. In this class, the marking scheme is intended to provide flexibility so that you can prioritize your health and still be able to succeed: 
+- Attendance in classes and tutorials is not graded (although obviously beneficial when it is safe to attend).
 - All course notes will be provided online. 
-- All homework assignments can be done and handed in online. 
-- All exams will be held online.  
-- Most of the class activity will be video recorded and will be made available to you. 
+- All homework assignments can be done and handed in online.   
+- Video recordings of class activities will be made available to you when possible/appropriate. 
 - Before each class, I'll also try to post some [videos on YouTube](https://www.youtube.com/watch?v=-1hTcS5ZE4w&list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM) to facilitate hybrid learning. 
 - There will be at least a few office hours which will be held online. 
 
