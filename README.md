@@ -70,7 +70,7 @@ Lectures will be on Tuesday and Thursday from 12:30pm to 2:00pm.
 | Feb 15 | [Ensembles](lecture/11_ensembles.ipynb) |  📹 <li>Pre-watch: [11.1](https://youtu.be/8litm1H7DLo),[11.2](https://youtu.be/EkFkY9QB2Hw)</li> | similar |
 | Feb 17 | **Midterm**  | | 
 | Feb 20-26 | **Reading week (no classes)**  | | 
-|        |     |**Week 7 datasets**: <li>[Adult Census Income](https://www.kaggle.com/uciml/adult-census-income#),[Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata)</li>  | |
+|        |     |**Week 7 datasets**: <li>[Adult Census Income](https://www.kaggle.com/uciml/adult-census-income#)</li> <li>[Credit Card Dataset for Clustering](https://www.kaggle.com/arjunbhasin2013/ccdata)</li>  | |
 | Mar 2 | [feature importances, model interpretation](lectures/12_feat-importances.ipynb) | 📹 <li>Pre-watch: [12.1](https://youtu.be/xfICsGL7DXE),[12.2](https://youtu.be/tiSN18OmZOo)</li> | feature importances is new, feature engineering is new |
 | Mar 4 |   [Feature engineering and feature selection](lectures/13_feature-engineering-selection.ipynb) | None | less depth |
 |  | **Part II: Unsupervised learning, transfer learning, different learning settings**  | | 
