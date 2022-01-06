@@ -23,7 +23,7 @@ Usually the homework assignments will be due on Mondays and will be released on 
 |Assessment  | Due date |  Where to find? | Where to submit? | 
 |-------|-----------|-----------|-----------|
 | Syllabus quiz | Jan 17, 11:59pm  | [Canvas](https://canvas.ubc.ca/courses/83420/quizzes/453912) | [Canvas](https://canvas.ubc.ca/courses/83420/quizzes/453912) | 
-| hw1 | Jan 17, 11:59pm |  Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw1 | Jan 17, 11:59pm |  [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | hw2 | Jan 24, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)| 
 | hw3 | Jan 31, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | hw4 | Feb 7, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
