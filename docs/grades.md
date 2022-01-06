@@ -1,7 +1,22 @@
 # CPSC 330 grading policies
 
+## Grading
+ 
+The grading scheme for the course is as follows:
+
+| Component   | Weight          | Location   |
+|-------------|-----------------|------------|
+| Syllabus quiz |   1%           | Canvas | 
+| Assignments |     30%         | Gradescope |
+| Midterm     |     19%         | Canvas |
+| Final       |     50%         | Canvas |
+
+**A score of at least 50% in the Final Exam is required to pass the course.**
+
+Assignments will contribute equally towards the overall Assignments grade. This may change only in case the last assignment ends up particularly short or long due to timing, in which case the weight will be changed accordingly. Furthermore, I will drop your lowest homework grade. 
+
 ## General guidelines
-- All grading concerns and challenges must be reported on [Piazza](https://piazza.com/class/kt60nrdhu53454?cid=6) by posting it to the instructors. 
+- All grading concerns and challenges must be reported on [Piazza](https://piazza.com/class/ky0j51i4ud64t5) by posting it to the instructors. 
 - You must select the `grading_concerns` folder when you post your message. If you do not do it, we might not see your message. 
 - Clearly state your name, student number, the assessment, and your concern.
 
@@ -13,4 +28,4 @@ Grades are not perfect; some randomness in grading is normal, meaning that you'l
 
 Sometimes serious grading errors are made, for example when a grader did not see your answer to a question or completely deviated from standard grading practices for some unknown reason. Such situations can be quite frustrating for students, and we want you to feel that the course is fair. In these cases, it makes sense for the student to bring the error to our attention.
 
-Balancing these two sides is difficult. In CPSC 330 this term we will try a new policy. If a grade is challenged in a way that is deemed unreasonable, the student will receive a warning. This decision will be made by the instructor. If this happens a second time, the student will lose the privilege to challenge grades for the remainder of the course. Examples of unreasonable requests include extremely minor complaints (e.g. half a mark on an assignment) or repeatedly contesting the same issue once a decision has been reached. This policy applies to both assignments and exams.
+I encourage you to consider this information when deciding whether or not to contest a grade. Small grade differences (+/- 1 point) are to be considered normal and will not be considered for regrading. Students who repeatedly submit unreasonable regrade requests (e.g. to correct extremely minor points differences or to repeatedly contest the same issue once a decision has been reached) may **lose the privilege to challenge grades for the remainder of the course**. This policy applies to both assignments and exams.
