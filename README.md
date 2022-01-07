@@ -124,7 +124,7 @@ Your precautions will help reduce risk and keep everyone safer. In this class, t
 - Before each class, I'll also try to post some [videos on YouTube](https://www.youtube.com/watch?v=-1hTcS5ZE4w&list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM) to facilitate hybrid learning. 
 - There will be at least a few office hours which will be held online. 
 
-**If sick on an exam day**
+**If sick on an exam day:**
 If you are sick on a midterm exam day, please contact the instructor through Piazza as soon as you are confident you should not come to the scheduled exam.  We would strongly prefer that you contact us to make an alternate arrangement than for you to come to the exam while you are ill.  If you do show up for an exam and you are clearly ill, you will not be able to write the exam and we will make alternate arrangements with you.  It is much better for you to email ahead of time and not attend.  Remember to include your full name and student number in your message. 
 
 If you are sick on a final exam day, **do not attend the exam**. You must apply for deferred standing (an academic concession) through Science Advising no later than 48 hours after the missed final exam/assignment. Students who are granted deferred standing write the final exam/assignment at a later date. Learn more and find the application online: https://science.ubc.ca/students/advising/concession     
