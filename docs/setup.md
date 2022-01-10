@@ -16,6 +16,8 @@ When there are updates in the repository, you can update the local copy using th
 git pull
 ```
 
+If you prefer a GUI, you can try [GitHub Desktop](https://desktop.github.com/).
+
 ## Python and Conda
 
 We will be using Python for this course because it is open source and widely used in machine learning and data science. We will use Python 3 (in particular 3.9). **Python 2 is not supported in this course.**
