@@ -16,27 +16,29 @@ Application of machine learning tools, with an emphasis on solving practical pro
 | Tue/Thu  | 12:30-14:00  | On [Zoom](https://canvas.ubc.ca/courses/83420/external_tools/15408) until Jan 24, then DMP 310 |
 
 **Tutorials**:
-The tutorials for this class will be run by the TAs and will be in the office hour format. We are planning to have at least one tutorial on Zoom each week to support hybrid learning. 
+The tutorials for this class will be run by the TAs and will be in the office hour format. Tutorials will also be on Zoom untin Jan 24, then they will transfer to their classroom. 
 
 | Day  | Time   | Location |
 |----------|--------|------|
-| Friday  | 10:00-11:00 | Neville Scarfe #1328 |
-| Friday  | 12:00-13:00  | Neville Scarfe #1328 |
-| Friday  | 14:00-15:00 | Neville Scarfe #1328 |
+| Friday  | 9:00-10:00 | On [Zoom](https://canvas.ubc.ca/courses/83420/external_tools/15408) until Jan 24, then Neville Scarfe #1328 |
+| Friday  | 10:00-11:00 | On [Zoom](https://canvas.ubc.ca/courses/83420/external_tools/15408) until Jan 24, then Neville Scarfe #1328 |
+| Friday  | 12:00-13:00  | On [Zoom](https://canvas.ubc.ca/courses/83420/external_tools/15408) until Jan 24, then Neville Scarfe #1328 |
+| Friday  | 16:00-17:00 | On [Zoom](https://canvas.ubc.ca/courses/83420/external_tools/15408) until Jan 24, then Neville Scarfe #1328 |
 
 
 **Office hours**: 
 - [Giulia Toti](https://canvas.ubc.ca/courses/83420/external_tools/15408), Wednesday 14:00-15:30
+- Gaurav Bhatt, Monday 12:30-14:30
 
 ## Teaching Team
 
 **Instructor**: [Giulia Toti](https://www.gtoti.com/)
 
 **Teaching Assistants**:
+- Amrutha Varshini Ramesh
+- Chenwei Zhang
+- Elizabeth Reid
 - Gaurav Bhatt
-- Brianna (Brie) Dungate 
-- Rubia Guerra
-- Ariel Shann
 
 ## Registration
 
@@ -57,7 +59,7 @@ The grading scheme for the course is as follows:
 
 | Component   | Weight          | Location   |
 |-------------|-----------------|------------|
-| Syllabus quiz |   1%           | [Canvas](https://canvas.ubc.ca/courses/78046) | 
+| Syllabus quiz |   1%          | [Canvas](https://canvas.ubc.ca/courses/78046) | 
 | Assignments |     30%         | [Gradescope](https://www.gradescope.ca/courses/5032) |
 | Midterm     |     19%         | [Canvas](https://canvas.ubc.ca/courses/78046)     |
 | Final       |     50%         | [Canvas](https://canvas.ubc.ca/courses/78046)     |
@@ -89,7 +91,6 @@ The final exam will be held during the exam period (TBD).
 - If you plan to engage in non-course-related activity in lecture (Facebook, YouTube, chatting with friends, etc), please sit in the last row of the room to avoid distracting your classmates.
 - Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission.
 - Do not photograph or record lectures (audio or video) without permission.
-- If you commit to working with a partner on an assignment, do your fair share of the work.
 - If you have a problem or complaint, let the instructor(s) know immediately. Maybe we can fix it!
 
 ## Working during the COVID-19 global pandemic
