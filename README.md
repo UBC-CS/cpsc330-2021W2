@@ -50,7 +50,7 @@ Lectures will be on Tuesday and Thursday from 12:30pm to 2:00pm.
 
 | Date  | Topic |  Assigned videos and datasets | vs. CPSC 340 |
 |-------|-----------|-------------------------|------------------|
-| Jan 11 | [Course intro](lectures/01_intro.ipynb) | 📹 <li>Pre-watch: None</li><li>During lecture: [1.0](https://youtu.be/-1hTcS5ZE4w)</li> | n/a|
+| Jan 11 | [Course intro](lectures/01_intro.ipynb) | 📹 <li>Pre-watch: None</li><li>Recap video (after lecture): [1.0](https://youtu.be/-1hTcS5ZE4w)</li> | n/a|
 |  | **Part I: ML fundamentals and preprocessing**  | |  
 |  | |**Week 1 datasets:** <li>[grade prediction toy dataset](lectures/data/quiz2-grade-toy-classification.csv)</li><li>[Canada USA cities toy dataset](lectures/data/canada_usa_cities.csv)</li> | |
 | Jan 13 | [Decision trees](lectures/02_decision-trees.ipynb) | 📹 <li>Pre-watch: [2.1](https://youtu.be/YNT8n4cXu4A), [2.2](https://youtu.be/6eT5cLL-2Vc)</li> <li>During lecture: [2.3](https://youtu.be/Hcf19Ij35rA), [2.4](https://youtu.be/KEtsfXn4w2E)</li> |   less depth| 
