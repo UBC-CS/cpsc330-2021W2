@@ -1,5 +1,19 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
+## Watch out for 👀
+
+Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. Here is a check list to get started:
+
+- [ ] Are you able to access course [Canvas](https://canvas.ubc.ca/courses/83420) shell? 
+- [ ] Are you able to access [Gradescope](https://www.gradescope.ca/courses/5991)? (If not, refer to the [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-student-guide/).)
+- [ ] Are you able to access [course Piazza](https://piazza.com/class/ky0j51i4ud64t5)?
+- [ ] Did you follow the setup instructions [here](https://ubc-cs.github.io/cpsc330/docs/setup.html) to create a course conda environment on your computer? 
+- [ ] Did you complete the anonymous [restaurant survey on Qualtrics](https://ubc.ca1.qualtrics.com/jfe/form/SV_cBdllW9tZsif7xk)?
+- [ ] Did you complete the [Syllabus quiz on Canvas](https://canvas.ubc.ca/courses/83420/quizzes/453912)? (Due date: Monday, Jan 17th at 11:59pm)
+- [ ] Are you almost finished or at least started with homework 1? (Due: Monday, Jan 17th at 11:59pm)
+
+## Introduction
+
 This is the course homepage for CPSC 330: Applied Machine Learning at the University of British Columbia. You are looking at the current version (Jan-Apr 2022). Earlier versions can be found at these links:
 * [from Sep-Dec 2021](https://github.com/UBC-CS/cpsc330)
 * [from Sep-Dec 2020](https://github.com/UBC-CS/cpsc330/tree/v2.0).
