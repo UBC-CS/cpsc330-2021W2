@@ -1,6 +1,6 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 11/01/22)
+## Watch out for 👀 (last updated: 12/01/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. Here is a check list to get started:
 
@@ -11,6 +11,7 @@ Keep an eye on this paragraph at the top of the readme file, I will try to keep 
 - [ ] Did you complete the anonymous [restaurant survey on Qualtrics](https://ubc.ca1.qualtrics.com/jfe/form/SV_cBdllW9tZsif7xk)?
 - [ ] Did you complete the [Syllabus quiz on Canvas](https://canvas.ubc.ca/courses/83420/quizzes/453912)? (Due date: Monday, Jan 17th at 11:59pm)
 - [ ] Are you almost finished or at least started with homework 1? (Due: Monday, Jan 17th at 11:59pm)
+- [ ] Did you watch the pre-lecture videos [2.1](https://youtu.be/YNT8n4cXu4A), [2.2](https://youtu.be/6eT5cLL-2Vc)? 
 
 ## Introduction
 
