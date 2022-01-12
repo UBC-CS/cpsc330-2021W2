@@ -28,7 +28,7 @@ The tutorials for this class will be run by the TAs and will be in the office ho
 
 **Office hours**: 
 - [Giulia Toti](https://canvas.ubc.ca/courses/83420/external_tools/15408), Wednesday 14:00-15:30
-- Gaurav Bhatt, Monday 12:30-14:30
+- [Gaurav Bhatt](https://canvas.ubc.ca/courses/83420/external_tools/15408), Monday 12:30-14:30
 
 ## Teaching Team
 
