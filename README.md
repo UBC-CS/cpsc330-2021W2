@@ -1,6 +1,6 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀
+## Watch out for 👀 (last updated: 11/01/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. Here is a check list to get started:
 
