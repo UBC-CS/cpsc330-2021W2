@@ -14,6 +14,8 @@ Keep an eye on this paragraph at the top of the readme file, I will try to keep 
 
 Also, please watch the following videos before next class on Tuesday: [2.3](https://youtu.be/Hcf19Ij35rA), [2.4](https://youtu.be/KEtsfXn4w2E), [3.1](https://youtu.be/iS2hsRRlc2M), [3.2](https://youtu.be/h2AEobwcUQw)
 
+From HW2, you will be *allowed* to work and submit in pairs! Allowed = not mandatory, it is up to your preference. It may be a bit challenging to find a partner remotely, so here is a Piazza post to help your search: https://piazza.com/class/ky0j51i4ud64t5?cid=5
+
 ## Introduction
 
 This is the course homepage for CPSC 330: Applied Machine Learning at the University of British Columbia. You are looking at the current version (Jan-Apr 2022). Earlier versions can be found at these links:
