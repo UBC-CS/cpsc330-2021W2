@@ -1,20 +1,14 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 16/01/22)
+## Watch out for 👀 (last updated: 19/01/22)
 
-Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. Here is a check list to get started:
+Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-- [ ] Are you able to access course [Canvas](https://canvas.ubc.ca/courses/83420) shell? 
-- [ ] Are you able to access [Gradescope](https://www.gradescope.ca/courses/5991)? (If not, refer to the [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-student-guide/).)
-- [ ] Are you able to access [course Piazza](https://piazza.com/class/ky0j51i4ud64t5)?
-- [ ] Did you follow the setup instructions [here](https://ubc-cs.github.io/cpsc330/docs/setup.html) to create a course conda environment on your computer? 
-- [ ] Did you complete the anonymous [restaurant survey on Qualtrics](https://ubc.ca1.qualtrics.com/jfe/form/SV_cBdllW9tZsif7xk)?
-- [ ] Did you complete the [Syllabus quiz on Canvas](https://canvas.ubc.ca/courses/83420/quizzes/453912)? (Due date: Monday, Jan 17th at 11:59pm)
-- [ ] Are you almost finished or at least started with homework 1? (Due: Monday, Jan 17th at 11:59pm)
+Please watch the following videos before next class on Thursday: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg).
 
-Also, please watch the following videos before next class on Tuesday: [2.3](https://youtu.be/Hcf19Ij35rA), [2.4](https://youtu.be/KEtsfXn4w2E), [3.1](https://youtu.be/iS2hsRRlc2M), [3.2](https://youtu.be/h2AEobwcUQw)
+There is still time to complete the anonymous [restaurant survey on Qualtrics](https://ubc.ca1.qualtrics.com/jfe/form/SV_cBdllW9tZsif7xk).
 
-From HW2, you will be *allowed* to work and submit in pairs! Allowed = not mandatory, it is up to your preference. It may be a bit challenging to find a partner remotely, so here is a Piazza post to help your search: https://piazza.com/class/ky0j51i4ud64t5?cid=5
+HW2 is out and due next Monday, January 24th at 11:59 PM. From HW2, you will be *allowed* to work and submit in pairs! Allowed = not mandatory, it is up to your preference. It may be a bit challenging to find a partner remotely, so here is a Piazza post to help your search: https://piazza.com/class/ky0j51i4ud64t5?cid=5
 
 ## Introduction
 
@@ -72,7 +66,7 @@ Lectures will be on Tuesday and Thursday from 12:30pm to 2:00pm.
 |  | **Part I: ML fundamentals and preprocessing**  | |  
 |  | |**Week 1 datasets:** <li>[grade prediction toy dataset](lectures/data/quiz2-grade-toy-classification.csv)</li><li>[Canada USA cities toy dataset](lectures/data/canada_usa_cities.csv)</li> | |
 | Jan 13 | [Decision trees](lectures/02_decision-trees.ipynb) | 📹 <li>Pre-watch: [2.1](https://youtu.be/YNT8n4cXu4A), [2.2](https://youtu.be/6eT5cLL-2Vc)</li> <li>After lecture: [2.3](https://youtu.be/Hcf19Ij35rA), [2.4](https://youtu.be/KEtsfXn4w2E)</li> |   less depth| 
-| Jan 18 | [ML fundamentals](lectures/03_ml-fundamentals.ipynb) | 📹  <li> Pre-watch: [3.1](https://youtu.be/iS2hsRRlc2M), [3.2](https://youtu.be/h2AEobwcUQw)</li> <li>During lecture: [3.3](https://youtu.be/4cv8VYonepA), [3.4](https://youtu.be/Ihay8yE5KTI)</li>| similar |
+| Jan 18 | [ML fundamentals](lectures/03_ml-fundamentals.ipynb) | 📹  <li> Pre-watch: [3.1](https://youtu.be/iS2hsRRlc2M), [3.2](https://youtu.be/h2AEobwcUQw)</li> <li>After lecture: [3.3](https://youtu.be/4cv8VYonepA), [3.4](https://youtu.be/Ihay8yE5KTI)</li>| similar |
 |        |     |**Week 2 datasets:** <li>[California housing](https://www.kaggle.com/harrywang/housing)</li><li>[Spotify Song Attributes](https://www.kaggle.com/geomack/spotifyclassification/home)</li> | |
 | Jan 20 | [$k$-NNs and SVM with RBF kernel](lectures/04_kNNs-SVM-RBF.ipynb) | 📹  <li> Pre-watch: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg)</li> <li>During lecture: [4.3](https://youtu.be/IRGbqi5S9gQ), [4.4](https://youtu.be/ic_zqOhi020)</li>  | less depth |
 | Jan 25 | [Preprocessing, `sklearn` pipelines](lectures/05_preprocessing-pipelines.ipynb) | 📹  <li> Pre-watch: [5.1](https://youtu.be/xx9HlmzORRk), [5.2](https://youtu.be/G2IXbVzKlt8)</li><li>During lecture: [5.3](https://youtu.be/nWTce7WJSd4), [5.4](https://youtu.be/2mJ9rAhMMl0)</li>  |  more depth|
