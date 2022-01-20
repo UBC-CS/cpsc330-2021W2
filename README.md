@@ -1,10 +1,10 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 19/01/22)
+## Watch out for 👀 (last updated: 20/01/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-Please watch the following videos before next class on Thursday: [4.1](https://youtu.be/hCa3EXEUmQk), [4.2](https://youtu.be/bENDqXKJLmg).
+Please watch the following videos before next class on Tuesday: [5.1](https://youtu.be/xx9HlmzORRk), [5.2](https://youtu.be/G2IXbVzKlt8).
 
 There is still time to complete the anonymous [restaurant survey on Qualtrics](https://ubc.ca1.qualtrics.com/jfe/form/SV_cBdllW9tZsif7xk).
 
