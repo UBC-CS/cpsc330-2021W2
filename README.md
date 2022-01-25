@@ -1,14 +1,14 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 20/01/22)
+## Watch out for 👀 (last updated: 25/01/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-Please watch the following videos before next class on Tuesday: [5.1](https://youtu.be/xx9HlmzORRk), [5.2](https://youtu.be/G2IXbVzKlt8).
+Please watch the following videos before next class on Thursday: [6.1](https://youtu.be/to2mukSyvLk), [6.2](https://youtu.be/hteVvLwrWZ4).
 
-There is still time to complete the anonymous [restaurant survey on Qualtrics](https://ubc.ca1.qualtrics.com/jfe/form/SV_cBdllW9tZsif7xk).
+HW3 is out and due next Wednesday, February 2nd at 11:59 PM. You are allowed to work and submit in pairs. Allowed = not mandatory, it is up to your preference. It may be a bit challenging to find a partner remotely, so here is a Piazza post to help your search: https://piazza.com/class/ky0j51i4ud64t5?cid=5
 
-HW2 is out and due next Monday, January 24th at 11:59 PM. From HW2, you will be *allowed* to work and submit in pairs! Allowed = not mandatory, it is up to your preference. It may be a bit challenging to find a partner remotely, so here is a Piazza post to help your search: https://piazza.com/class/ky0j51i4ud64t5?cid=5
+Students who were moved to the course from the waitlist **after January 14th** can submit the syllabus quiz **by this Friday, January 28th.** Here is the link to the quiz: https://canvas.ubc.ca/courses/83420/quizzes/453912
 
 ## Introduction
 
@@ -37,7 +37,7 @@ Usually the homework assignments will be due on Mondays and will be released on 
 | Syllabus quiz | Jan 17, 11:59pm  | [Canvas](https://canvas.ubc.ca/courses/83420/quizzes/453912) | [Canvas](https://canvas.ubc.ca/courses/83420/quizzes/453912) | 
 | hw1 | Jan 17, 11:59pm |  [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | hw2 | Jan 24, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)| 
-| hw3 | Jan 31, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw3 | Feb 2, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | hw4 | Feb 7, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | hw5 | Feb 14, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | **Midterm** | Feb 17, during class time| TBD | TBD | 
