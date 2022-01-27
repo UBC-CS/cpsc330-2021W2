@@ -6,7 +6,7 @@ Keep an eye on this paragraph at the top of the readme file, I will try to keep 
 
 Please watch the following videos before next class on Thursday: [6.1](https://youtu.be/to2mukSyvLk), [6.2](https://youtu.be/hteVvLwrWZ4).
 
-HW3 is out and due next Wednesday, February 2nd at 11:59 PM. You are allowed to work and submit in pairs. Allowed = not mandatory, it is up to your preference. It may be a bit challenging to find a partner remotely, so here is a Piazza post to help your search: https://piazza.com/class/ky0j51i4ud64t5?cid=5
+HW3 is out and due next Wednesday, February 2nd at 11:59 PM. Please review the important update regarding this homework on [Piazza](https://piazza.com/class/ky0j51i4ud64t5?cid=110). **You are no longer allowed to submit in pairs for this homework.**
 
 Students who were moved to the course from the waitlist **after January 14th** can submit the syllabus quiz **by this Friday, January 28th.** Here is the link to the quiz: https://canvas.ubc.ca/courses/83420/quizzes/453912
 
