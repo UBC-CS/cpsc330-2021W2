@@ -8,6 +8,8 @@ Please watch the following videos before next class on Tuesday: [7.1](https://yo
 
 HW3 is out and due next Wednesday, February 2nd at 11:59 PM. Please review the important update regarding this homework on [Piazza](https://piazza.com/class/ky0j51i4ud64t5?cid=110). **You are no longer allowed to submit in pairs for this homework.**
 
+HW2 grades and solution are available. You have 1 week (until next Saturday) to submit regrading requests.
+
 
 ## Introduction
 
