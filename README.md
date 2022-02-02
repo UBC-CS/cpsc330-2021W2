@@ -4,7 +4,7 @@
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-Please watch the following videos before next class on Tuesday: [7.1](https://youtu.be/HXd1U2q4VFA), [7.2](https://youtu.be/56L5z_t22qE), [7.3](https://youtu.be/_OAK5KiGLg0).
+Please watch the following videos before next class on Thursday: [8.1](https://youtu.be/lMWdHZSZMk8),[8.2](https://youtu.be/Z9a9XZ0vQv0).
 
 HW3 is out and due next Wednesday, February 2nd at 11:59 PM. Please review the important update regarding this homework on [Piazza](https://piazza.com/class/ky0j51i4ud64t5?cid=110). **You are no longer allowed to submit in pairs for this homework.**
 
