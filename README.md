@@ -16,7 +16,7 @@ By majority vote, tutorials will continue to be online for the remainder of the 
 
 ## Midterm information
 
-As per calendar, the midterm will be on **February 17, in DMP 310 during class time. No remote options allowed.** 
+As per calendar, the midterm will be on **February 17, in DMP 310 during class time (expected start at 12:35, end at 1:50, for a total of 75 minutes). No remote options allowed.** 
 
 It will be closed-book and it will be administered through Canvas. 
 
