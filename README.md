@@ -10,7 +10,7 @@ HW4 is out and due on Friday, February 11th at 11:59 PM. You are again allowed t
 
 HW3 grades will be available shortly.
 
-In preparation for the midterm exam, the lecture before (February 15) will be used to review a few topics of your choice. Please use [this poll](https://piazza.com/class/ky0j51i4ud64t5?cid=134) to let me know your preferences. Read the post before voting and keep in mind that unfortunately it will be impossible to accommodate all requests, so if you feel very uncertain about a topic, don't wait and pay us a visit during office hours.
+In preparation for the midterm exam, the lecture before (February 15) will be used to review a few topics of your choice. Please use [this poll](https://piazza.com/class/ky0j51i4ud64t5?cid=134) to let me know your preferences. **Read the post before voting** and keep in mind that unfortunately it will be impossible to accommodate all requests, so if you feel very uncertain about a topic, don't wait and pay us a visit during office hours.
 
 By majority vote, tutorials will continue to be online for the remainder of the semester. So will office hours. 
 
