@@ -1,14 +1,18 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 02/02/22)
+## Watch out for 👀 (last updated: 07/02/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-Please watch the following videos before next class on Thursday: [8.1](https://youtu.be/lMWdHZSZMk8),[8.2](https://youtu.be/Z9a9XZ0vQv0).
+Please watch the following videos before next class on Tuesday: [9.2](https://youtu.be/ZCuCErW5lI8),[9.3](https://youtu.be/XkCTUuoH23c),[9.4](https://youtu.be/jHaKRCFb6Qw).
 
-HW3 is out and due next Wednesday, February 2nd at 11:59 PM. Please review the important update regarding this homework on [Piazza](https://piazza.com/class/ky0j51i4ud64t5?cid=110). **You are no longer allowed to submit in pairs for this homework.**
+HW4 is out and due on Friday, February 11th at 11:59 PM. You are again allowed to submit in pairs.
 
-HW2 grades and solution are available. You have 1 week (until next Saturday) to submit regrading requests.
+HW3 grades will be available shortly.
+
+In preparation for the midterm exam, the lecture before (February 15) will be used to review a few topics of your choice. Please use [this poll](https://piazza.com/class/ky0j51i4ud64t5?cid=134) to let me know your preferences. Read the post before voting and keep in mind that unfortunately it will be impossible to accommodate all requests, so if you feel very uncertain about a topic, don't wait and pay us a visit during office hours.
+
+By majority vote, tutorials will continue to be online for the remainder of the semester. So will office hours. 
 
 
 ## Introduction
