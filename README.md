@@ -8,7 +8,7 @@ Please watch the following videos before next class on Tuesday: [9.2](https://yo
 
 HW4 is out and due on Friday, February 11th at 11:59 PM. You are again allowed to submit in pairs.
 
-HW3 grades will be available shortly.
+HW3 grades are available. Regrade requests are open and will close at the end of February 14. **I strongly advise you to review the regrade request policy before submitting one:** I am receiving a lot of requests that do not follow our policy (e.g. arguments about deductions of 1-2 points). This is not within the purpose of regrade requests and if it continues I will have no choice but restricting or eliminating requests altogether. If you do not understand why a point was deducted, come to office hours for clarification.
 
 In preparation for the midterm exam, the lecture before (February 15) will be used to review a few topics of your choice. Please use [this poll](https://piazza.com/class/ky0j51i4ud64t5?cid=134) to let me know your preferences. **Read the post before voting** and keep in mind that unfortunately it will be impossible to accommodate all requests, so if you feel very uncertain about a topic, don't wait and pay us a visit during office hours.
 
