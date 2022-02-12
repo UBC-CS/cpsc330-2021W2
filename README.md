@@ -4,7 +4,7 @@
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-**⬇️ ⬇️ Don't miss imporant midterm updates below ⬇️ ⬇️ **
+⬇️ ⬇️ **Don't miss imporant midterm updates below** ⬇️ ⬇️ 
 
 HW5 is out and due on Monday, February 28th at 11:59 PM. Paired submissions are allowed. Although you have a longer period of time for this homework, start soon because it is probably the longest so far. You also want to be comfortable with the content of lectures 9 and 10 for the midterm, so you can use this homework as a way to practice.
 
