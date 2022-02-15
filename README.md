@@ -1,6 +1,6 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 12/02/22)
+## Watch out for 👀 (last updated: 15/02/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
@@ -14,6 +14,8 @@ In preparation for the midterm exam, the lecture before (February 15) will be us
 - Pipelines 
 - Hyperparameters optimization
 - optimization bias
+
+Since we did not have time to talk about it in class, [here](https://ubc.zoom.us/rec/share/Zrv72pixjg1MuSXoJZtdKXCx4lyxtjA0ZRZ-pwm4tPXThugcNYw3KBBegovOB3Mn.czife5ZCcU1MTOlp) is a video on what I was planning to say on optimization bias. 
 
 If your topic of choice was not selected, use office hours to ask for clarifications.
 
