@@ -102,7 +102,7 @@ Lectures will be on Tuesday and Thursday from 12:30pm to 2:00pm.
 | Feb 3 | [Hyperparameter optimization, overfitting the validation set](lectures/08_hyperparameter-optimization.ipynb) | 📹  <li> Pre-watch: [8.1](https://youtu.be/lMWdHZSZMk8),[8.2](https://youtu.be/Z9a9XZ0vQv0)</li> |   different|
 | Feb 8 | [Evaluation metrics for classification](lectures/09_classification-metrics.ipynb)  | 📹  <li> Pre-watch: [9.2](https://youtu.be/ZCuCErW5lI8),[9.3](https://youtu.be/XkCTUuoH23c),[9.4](https://youtu.be/jHaKRCFb6Qw)</li> | more depth |
 |        |     |**Week 6 datasets**: <li>[Kaggle House Prices data set](https://www.kaggle.com/c/home-data-for-ml-course/)</li> <li>[Adult Census Income](https://www.kaggle.com/uciml/adult-census-income#)</li> | |
-| Feb 10 | [Regression metrics](lectures/10_regression-metrics) |  📹 <li>Pre-watch: [10.1](https://youtu.be/lgGTKLwNgkQ)</li> |   more depth on metrics less depth on regression|
+| Feb 10 | [Regression metrics](lectures/10_regression-metrics.ipynb) |  📹 <li>Pre-watch: [10.1](https://youtu.be/lgGTKLwNgkQ)</li> |   more depth on metrics less depth on regression|
 | Feb 15 | Midterm review | [Topic selection poll](https://piazza.com/class/ky0j51i4ud64t5?cid=134) |  |
 | Feb 17 | **Midterm**  | | 
 | Feb 20-26 | **Reading week (no classes)**  | | 
