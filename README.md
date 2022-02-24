@@ -1,23 +1,13 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 15/02/22)
+## Watch out for 👀 (last updated: 24/02/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-⬇️ ⬇️ **Don't miss imporant midterm updates below** ⬇️ ⬇️ 
-
 HW5 is out and due on Monday, February 28th at 11:59 PM. Paired submissions are allowed. Although you have a longer period of time for this homework, start soon because it is probably the longest so far. You also want to be comfortable with the content of lectures 9 and 10 for the midterm, so you can use this homework as a way to practice.
 
-HW4 solution is available. Grades will be available in ~1 week as usual.
+HW4 grades are available on Gradescope. Regrade requests are open until March 3rd (please keep following the policy - HW3 was much more manageable than the first 2).
 
-In preparation for the midterm exam, the lecture before (February 15) will be used to review a few topics of your choice. As per poll results, we will focus on:
-- Pipelines 
-- Hyperparameters optimization
-- optimization bias
-
-Since we did not have time to talk about it in class, [here](https://ubc.zoom.us/rec/share/Zrv72pixjg1MuSXoJZtdKXCx4lyxtjA0ZRZ-pwm4tPXThugcNYw3KBBegovOB3Mn.czife5ZCcU1MTOlp) is a video on what I was planning to say on optimization bias. 
-
-If your topic of choice was not selected, use office hours to ask for clarifications.
 
 ## Midterm information
 
