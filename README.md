@@ -59,9 +59,9 @@ Usually the homework assignments will be due on Mondays and will be released on 
 | hw4 | Feb 11, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | hw5 | Feb 28, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | **Midterm** | Feb 17, during class time| TBD | TBD | 
-| hw6 | Mar 7, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw7 | Mar 14, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw8 | Mar 21, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw6 | Mar 14, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw7 | Mar 21, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw8 | Mar 28, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | **Final exam** | TBD | TBD | TBD |
 
 
