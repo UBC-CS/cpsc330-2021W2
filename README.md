@@ -8,9 +8,8 @@ Before our next lecture (3/1) please watch: [11.1](https://youtu.be/8litm1H7DLo)
 
 Midterm exam grades have been posted on Canvas. The mean for the test is 76%, well done! If you have questions about the exam, office hours on Wednesday or tutorials would be the best time to ask. If you need to report an error with your grade, please do so through Piazza using the tag "grading concerns". Please limit this to significant concerns (e.g. a question was skipped), and not 1-2 points differences on open eneded questions (which will not be addressed). 
 
-HW5 is out and due on Monday, February 28th at 11:59 PM. Paired submissions are allowed. Although you have a longer period of time for this homework, start soon because it is probably the longest so far. You also want to be comfortable with the content of lectures 9 and 10 for the midterm, so you can use this homework as a way to practice.
+HW6 is out and due on Monday, March 14th at 11:59 PM (updated deadline). Paired submissions are allowed. Although you have a longer period of time for this homework, start soon because it is a summative homework and the longest so far. 
 
-HW4 grades are available on Gradescope. Regrade requests are open until March 3rd (please keep following the policy - HW3 was much more manageable than the first 2).
 
 
 ## Midterm information
