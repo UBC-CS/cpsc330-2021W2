@@ -1,12 +1,8 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 02/03/22)
+## Watch out for 👀 (last updated: 07/03/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
-
-Before our next lecture (3/3) please watch: [12.1](https://youtu.be/xfICsGL7DXE),[12.2](https://youtu.be/tiSN18OmZOo)
-
-Midterm exam grades have been posted on Canvas. The mean for the test is 76%, well done! If you have questions about the exam, office hours on Wednesday or tutorials would be the best time to ask. If you need to report an error with your grade, please do so through Piazza using the tag "grading concerns". Please limit this to significant concerns (e.g. a question was skipped), and not 1-2 points differences on open eneded questions (which will not be addressed). 
 
 HW6 is out and due on Monday, March 14th at 11:59 PM (updated deadline). Paired submissions are allowed. Although you have a longer period of time for this homework, start soon because it is a summative homework and the longest so far. 
 
