@@ -6,6 +6,8 @@ Keep an eye on this paragraph at the top of the readme file, I will try to keep 
 
 Before our next lecture (10/3), please watch: [14.1](https://youtu.be/caAuUAXwpb8),[14.2](https://youtu.be/s6AvSZ1_l7I),[14.3](https://youtu.be/M5ilrhcL0oY)
 
+Grades for HW5 are available for review on Gradescope. The deadline to submit regrade requests is Wednesday, 16/3 at 11:59 PM.
+
 HW6 is out and due on Monday, March 14th at 11:59 PM (updated deadline). Paired submissions are allowed. Although you have a longer period of time for this homework, start soon because it is a summative homework and the longest so far. 
 
 
