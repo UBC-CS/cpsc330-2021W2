@@ -61,7 +61,7 @@ Usually the homework assignments will be due on Mondays and will be released on 
 | hw6 | Mar 14, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | hw7 | Mar 21, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | hw8 | Mar 28, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| **Final exam** | TBD | TBD | TBD |
+| **Final exam** | Apr 27, 15:30 pm | [ESB 1013](https://learningspaces.ubc.ca/classrooms/esb-1013) | Canvas |
 
 
 
