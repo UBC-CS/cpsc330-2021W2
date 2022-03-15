@@ -10,7 +10,7 @@ Before our Thursday lecture (17/3), please watch: [16.1](https://youtu.be/GTC_iL
 
 Grades for HW5 are available for review on Gradescope. The deadline to submit regrade requests is Wednesday, 16/3 at 11:59 PM.
 
-HW6 is out and due on Monday, March 14th at 11:59 PM (updated deadline). Paired submissions are allowed. Although you have a longer period of time for this homework, start soon because it is a summative homework and the longest so far. 
+HW7 is out and due on Monday, March 21st at 11:59 PM. Paired submissions are allowed. 
 
 
 
