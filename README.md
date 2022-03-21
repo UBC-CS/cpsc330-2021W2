@@ -1,14 +1,10 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 14/03/22)
+## Watch out for 👀 (last updated: 21/03/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-Time and place of the final have been released by UBC (see below under Deliverables). 
-
-Before our Thursday lecture (17/3), please watch: [16.1](https://youtu.be/GTC_iLPCjdY),[16.2](https://youtu.be/7W5Q8gzNPBc)
-
-Grades for HW5 are available for review on Gradescope. The deadline to submit regrade requests is Wednesday, 16/3 at 11:59 PM.
+Time and place of the final have been released by UBC (see below under Deliverables). **The room is equipped with outlets for every seat,** so it is no longer necessary to fill the survey about this problem. A few people answered already and all of them said that they would need access to an outlet: I can confirm this will not be a problem. If you have other issues (e.g. you do not have a laptop at all), let me know through private post in Piazza.
 
 HW7 is out and due on Monday, March 21st at 11:59 PM. Paired submissions are allowed. 
 
