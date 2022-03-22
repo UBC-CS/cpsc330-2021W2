@@ -6,7 +6,7 @@ Keep an eye on this paragraph at the top of the readme file, I will try to keep 
 
 Time and place of the final have been released by UBC (see below under Deliverables). **The room is equipped with outlets for every seat,** so it is no longer necessary to fill the survey about this problem. A few people answered already and all of them said that they would need access to an outlet: I can confirm this will not be a problem. If you have other issues (e.g. you do not have a laptop at all), let me know through private post in Piazza.
 
-HW7 is out and due on Monday, March 21st at 11:59 PM. Paired submissions are allowed. 
+HW7 is out and due on Wednesday, March 23st at 11:59 PM **(new deadline)**. Paired submissions are allowed. 
 
 
 
@@ -57,8 +57,8 @@ Usually the homework assignments will be due on Mondays and will be released on 
 | hw5 | Feb 28, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | **Midterm** | Feb 17, during class time| TBD | TBD | 
 | hw6 | Mar 14, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw7 | Mar 21, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw8 | Mar 28, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw7 | Mar 23, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw8 | TBD, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | **Final exam** | Apr 27, 15:30 pm | [ESB 1013](https://learningspaces.ubc.ca/classrooms/esb-1013) | Canvas |
 
 
