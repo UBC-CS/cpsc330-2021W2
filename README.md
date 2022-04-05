@@ -1,17 +1,21 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 23/03/22)
+## Watch out for 👀 (last updated: 05/04/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
-Time and place of the final have been released by UBC (see below under Deliverables). **The room is equipped with outlets for every seat,** so it is no longer necessary to fill the survey about this problem. A few people answered already and all of them said that they would need access to an outlet: I can confirm this will not be a problem. If you have other issues (e.g. you do not have a laptop at all), let me know through private post in Piazza.
+Thursday's lesson (our last one!) will be very practical. To fully benefit from it, I recommend you do the following before coming to class:
+- Create a Heroku account. Register [here](https://www.heroku.com/).
+- Install Heroku CLI. Download [here](https://devcenter.heroku.com/categories/command-line).
 
-HW7 is out and due on Wednesday, March 23st at 11:59 PM **(new deadline)**. Paired submissions are allowed. 
+Other python installations you will need:
+```
+pip install Flask
+pip install Flask-WTF
+pip install joblib
+```
 
-HW8 is out and due on Friday, April 8th at 11:59 PM. Paired submissions are allowed. 
-
-Grades for HW6 are available on GradeScope. Regrade requests may be submitted by March 30th, 11:59 PM.
-
+Also, if you have not done so already, please complete the [Course Evaluation](https://canvas.ubc.ca/courses/83420/external_tools/4732).
 
 
 ## Midterm information
