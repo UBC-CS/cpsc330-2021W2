@@ -4,6 +4,8 @@
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
+Grades for HW7 have been posted on Gradescope. Regrade requests can be submitted by April 13, 11:59PM.
+
 Thursday's lesson (our last one!) will be very practical. To fully benefit from it, I recommend you do the following before coming to class:
 - Create a Heroku account. Register [here](https://www.heroku.com/).
 - Install Heroku CLI. Download [here](https://devcenter.heroku.com/categories/command-line).
