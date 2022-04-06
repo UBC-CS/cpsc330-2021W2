@@ -15,7 +15,7 @@ pip install Flask-WTF
 pip install joblib
 ```
 
-**A not on HW8, Q4.3:** For this part of the homework, you won't have to write a real blog post, you can use Jupyter and markdown cells, as long as you format text nicely, include figures etc. If you feel confident about your post and want to share it, you could consider https://medium.com/
+**A note on HW8, Q4.3:** For this part of the homework, you won't have to write a real blog post, you can use Jupyter and markdown cells, as long as you format text nicely, include figures etc. If you feel confident about your post and want to share it, you could consider https://medium.com/
 
 If you have trouble embedding images in your Jupyter file, please check this [Piazza post](https://piazza.com/class/ky0j51i4ud64t5?cid=279). And if you *still* have trouble, you can write your blog post as a Google doc file and add the link to your Jupyter notebook.
 
