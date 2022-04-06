@@ -21,7 +21,7 @@ If you have trouble embedding images in your Jupyter file, please check this [Pi
 
 ## Please complete course evaluations
 
-I am sure you are very busy these days, but I need to ask you to find 10 minutes of your time and complete the course evaluations on Canvas: https://canvas.ubc.ca/courses/83388/external_tools/4732
+I am sure you are very busy these days, but I need to ask you to find 10 minutes of your time and complete the course evaluations on Canvas: https://canvas.ubc.ca/courses/83420/external_tools/4732
 
 The current response rate is very low and if it stays like that I will not have access to the results! Since your input is very valuable, I would hate for that to be the case. This is my first semester teaching this course, and I would very much like to get some input to work with.
 
