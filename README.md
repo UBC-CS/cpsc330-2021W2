@@ -1,6 +1,6 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 05/04/22)
+## Watch out for 👀 (last updated: 06/04/22)
 
 Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
 
@@ -15,7 +15,23 @@ pip install Flask-WTF
 pip install joblib
 ```
 
-Also, if you have not done so already, please complete the [Course Evaluation](https://canvas.ubc.ca/courses/83420/external_tools/4732).
+**A not on HW8, Q4.3:** For this part of the homework, you won't have to write a real blog post, you can use Jupyter and markdown cells, as long as you format text nicely, include figures etc. If you feel confident about your post and want to share it, you could consider https://medium.com/
+
+If you have trouble embedding images in your Jupyter file, please check this [Piazza post](https://piazza.com/class/ky0j51i4ud64t5?cid=279). And if you *still* have trouble, you can write your blog post as a Google doc file and add the link to your Jupyter notebook.
+
+## Please complete course evaluations
+
+I am sure you are very busy these days, but I need to ask you to find 10 minutes of your time and complete the course evaluations on Canvas: https://canvas.ubc.ca/courses/83388/external_tools/4732
+
+The current response rate is very low and if it stays like that I will not have access to the results! Since your input is very valuable, I would hate for that to be the case. This is my first semester teaching this course, and I would very much like to get some input to work with.
+
+Also rest assured that surveys are completely anonymous! The system only tracks who has completed the survey; there is no way to trace responses or comments unless a student self-identifies; additionally, **we only receive a summary report and only after all grades are submitted and finalized. There is no risk of repercussions to students for giving honest, critical feedback.**
+
+A final note: it may help to read this post from one of our coworkers before filling your survey.
+
+https://www.reddit.com/r/UBC/comments/k18qj7/teaching_evaluations_the_good_the_bad_and_the_ugly/
+
+I hope reading this will help you formulate constructive feedback that we can all benefit from.
 
 
 ## Midterm information
