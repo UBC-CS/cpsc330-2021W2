@@ -21,6 +21,8 @@ pip install joblib
 
 If you have trouble embedding images in your Jupyter file, please check this [Piazza post](https://piazza.com/class/ky0j51i4ud64t5?cid=279). And if you *still* have trouble, you can write your blog post as a Google doc file and add the link to your Jupyter notebook.
 
+**The deadline for HW8 has been extended to Monday, April 11, 11:59PM.**
+
 ## Please complete course evaluations
 
 I am sure you are very busy these days, but I need to ask you to find 10 minutes of your time and complete the course evaluations on Canvas: https://canvas.ubc.ca/courses/83420/external_tools/4732
