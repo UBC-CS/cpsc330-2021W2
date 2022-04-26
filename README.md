@@ -1,27 +1,19 @@
 # UBC CPSC 330: Applied Machine Learning (2021W2)
 
-## Watch out for 👀 (last updated: 06/04/22)
+## Final exam information
 
-Keep an eye on this paragraph at the top of the readme file, I will try to keep it up to date with urgent to-dos and important things. 
+Here is a reminder of important information to keep in mind for the final tomorrow.
 
-Grades for HW7 have been posted on Gradescope. Regrade requests can be submitted by April 13, 11:59PM.
+As per calendar, the midterm will be on **April 27, in ESB 1013 from 3:30 to 5:30, for a total of 120 minutes). No remote options allowed.**
 
-Thursday's lesson (our last one!) will be very practical. To fully benefit from it, I recommend you do the following before coming to class:
-- Create a Heroku account. Register [here](https://www.heroku.com/).
-- Install Heroku CLI. Download [here](https://devcenter.heroku.com/categories/command-line).
+The exam will be closed-book and it will be administered through Canvas. The format is very similar to the midterm, and you can expect most questions to focus on the material covered after the midterm (lectures 11-22). Do review previous lectures because the material of this course is inevitably cumulative.
 
-Other python installations you will need:
-```
-pip install Flask
-pip install Flask-WTF
-pip install joblib
-```
+You are required to bring your own computer or tablet to complete the exam. If you come to the exam without a computer, or if your computer malfunctions during the exam, you will be offered a paper version of the test. You do not need to bring anything else to the test: scrap paper will be provided and a basic calculator is accessible in Canvas.
 
-**A note on HW8, Q4.3:** For this part of the homework, you won't have to write a real blog post, you can use Jupyter and markdown cells, as long as you format text nicely, include figures etc. If you feel confident about your post and want to share it, you could consider https://medium.com/
+You are also required to bring your UBC student card or another piece or photo ID for identification. **If we are unable to verify your identity because you do not have a valid ID, your exam will be invalidated and you will be assigned a grade of 0.**
 
-If you have trouble embedding images in your Jupyter file, please check this [Piazza post](https://piazza.com/class/ky0j51i4ud64t5?cid=279). And if you *still* have trouble, you can write your blog post as a Google doc file and add the link to your Jupyter notebook.
+If you are sick or miss the final for some other unpredictable circumstances, you may submit a request to postpone your final by reaching out to your faculty advising office (e.g., Science Advising if you are in Science, Arts Advising if you are in Arts etc.) as soon as possible to discuss the options of applying for the SD exam. **Only them (not me) can grant an exam deferral.** Please refer to the student service website for more information on the SD exam, how to apply and deadlines: https://students.ubc.ca/enrolment/exams/standing-deferred-supplemental-exams. As usual, if you are not feeling well but still decide to write the exam on Wednesday, it will not be possible to retake it at a later moment.
 
-**The deadline for HW8 has been extended to Monday, April 11, 11:59PM.**
 
 ## Please complete course evaluations
 
